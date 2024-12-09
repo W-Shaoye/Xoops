@@ -4,3 +4,4 @@ Directly pass the $uid parameter obtained from $_GET to the getUser() method to 
 
 
 ![image](https://github.com/W-Shaoye/test/assets/24892698/cd6d35c8-73f1-4105-aa6d-51b96047ace9)
+(CVE-2024-32393)
